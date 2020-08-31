@@ -1,0 +1,1396 @@
+[
+  {
+    "title": "Budweiser",
+    "idProduct": 210,
+    "excerpt": "Cerveja Budweiser 350Ml",
+    "image": "//img.sitemercado.com.br/produtos/5613398e59a97584462aba8b7e53825f8642c58a64c68ba384fbcdde35cddd39_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 3.49,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 2.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 2776,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Antarctica",
+    "idProduct": 229,
+    "excerpt": "Cerveja Antarctica Sub Zero 350Ml",
+    "image": "//img.sitemercado.com.br/produtos/29f302a482714de3aba51af40893c39653aacd37120324baebaa47c34a4400a3_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 2.25,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 1.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 829,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Stella Artois",
+    "idProduct": 244,
+    "excerpt": "Cerveja Stella Artois 275Ml",
+    "image": "//img.sitemercado.com.br/produtos/ad1f9ea77c9602e2c47431c954e2c97a6e469c4e0215b8cc3d747bd3e141c4bc_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 3.99,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 3.59,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 501,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Brahma",
+    "idProduct": 2175,
+    "excerpt": "Cerveja Brahma Zero 350Ml",
+    "image": "//img.sitemercado.com.br/produtos/76755ef2b5ada6792b48293bf646d698ec32715475a8641f67dc7210bf5897c2_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 3.48,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 2.29,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 1773,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Woolite",
+    "idProduct": 4802,
+    "excerpt": "Sabão Líquido Woolite Coco Embalagem 450Ml",
+    "image": "//img.sitemercado.com.br/produtos/2a65af72e8f898a23c92cc1c4d30cf271031301f7573718dc53aa9c55cbd45b4_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 17.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 14,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Easy Off",
+    "idProduct": 6113,
+    "excerpt": "Limpador Easy Off Limpa Forno 250Ml",
+    "image": "//img.sitemercado.com.br/produtos/f8299eebebb4b1559dc47c9ad2b5fbdcd8dc4ecdac4b095c6b205a10b8d3accd_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.65,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 7,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Repelex",
+    "idProduct": 11676,
+    "excerpt": "Repelente Repelex Kids Proteção Gel 133Ml",
+    "image": "//img.sitemercado.com.br/produtos/c50d3d7985abfb1fa1b8b0e44834abf6951625b5b8d280c9d41555ccd1894579_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 21.98,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 13,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Finish",
+    "idProduct": 88503,
+    "excerpt": "Lava Louças Finish Power Ball Pacote 13Un",
+    "image": "//img.sitemercado.com.br/produtos/607c7c9e26a35f185e9a0f1d79fa4bd6d1504491c54e5821fea5b5e199eee9f9_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 22.95,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 6,
+    "category": "Cozinha",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Sbp",
+    "idProduct": 121768,
+    "excerpt": "Inseticida Sbp Óleo de Eucalipto 380Ml",
+    "image": "//img.sitemercado.com.br/produtos/52f1e43c9ce9defffe9bc36d187299503cb10f615c3654c7a43f7f34a242b2e8_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 57,
+    "category": "Inseticidas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Sbp",
+    "idProduct": 122546,
+    "excerpt": "Inseticida Sbp Multi Regular 380Ml",
+    "image": "//img.sitemercado.com.br/produtos/3241aa09e46b40074e874d37ccbe50f25dd7d697307240409fb6518ef95d6361_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 128,
+    "category": "Inseticidas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Colorado Beer",
+    "idProduct": 2264,
+    "excerpt": "Cerveja Colorado Appia 600Ml",
+    "image": "//img.sitemercado.com.br/produtos/f0475613fb124ca9ab232992f6a1001fcd193660b47301043f241c093546c0eb_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 12.45,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 10.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 22,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Colorado Beer",
+    "idProduct": 2275,
+    "excerpt": "Cerveja Colorado Indica 600Ml",
+    "image": "//img.sitemercado.com.br/produtos/f8622452e6a960c6142c7c067b9235c8f858d9da375bb41f854bf01d31e3ddf2_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 15.9,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 10,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Danette",
+    "idProduct": 4265,
+    "excerpt": "Sobremesa Danette Chocolate 720G",
+    "image": "//img.sitemercado.com.br/produtos/64f55f210b04bf06263172de70d425404de291198132dd3935f35ea8b07f5e2b_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/leites-e-iogurtes_ind.jpg",
+    "quantity": 0,
+    "price_old": 15.24,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.192,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 35,
+    "category": "Iogurtes",
+    "department": "Leites e Iogurtes"
+  },
+  {
+    "title": "Woolite",
+    "idProduct": 4837,
+    "excerpt": "Sabão Líquido Woolite Roupas Pretas e Escuras Embalagem 450Ml",
+    "image": "//img.sitemercado.com.br/produtos/af2f51947ed6d831b24498507397b54fa9fed37594fdf80389b720ce517e5bb5_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 17.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 12,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Nugget",
+    "idProduct": 13100,
+    "excerpt": "Cera Líquida para Sapato Nugget Marrom Embalagem 60Ml",
+    "image": "//img.sitemercado.com.br/produtos/7543fd83782e9ad8952153d0eba04b25b715bc7af55ded457f26f74ad9cfc370_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 8.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 39,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Passe Bem",
+    "idProduct": 13863,
+    "excerpt": "Passa Roupas Passe Bem Spray 500Ml",
+    "image": "//img.sitemercado.com.br/produtos/7653d84ccaf8ffdf880224aafea828d98b2c0f47c9027b91ba2dc9ac8547e519_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 14.79,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 7,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Repelex",
+    "idProduct": 20335,
+    "excerpt": "Repelente Repelex Loção Familycare Citronela 200Ml",
+    "image": "//img.sitemercado.com.br/produtos/9e9ae1b1d459797ce4bdac280ccd2dded712302785183c90fd008f66d55ecb7e_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 26.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 14,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Poliflor",
+    "idProduct": 55914,
+    "excerpt": "Lustra Móveis Poliflor Lavanda 200Ml",
+    "image": "//img.sitemercado.com.br/produtos/62f29e6666c2d6b42544f673bf670d2ee0d8a9e51a728ab25fa44ac9af41d658_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 13.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 20,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Vanish",
+    "idProduct": 125753,
+    "excerpt": "Tira Manchas em Pó Vanish Oxy Action Crystal White Refil 400G",
+    "image": "//img.sitemercado.com.br/produtos/9723242acf57d04ebdd2bc0d07db210e2e6957b12d19bff61f01d82624ebf2f7_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 14.48,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 62,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Vanish",
+    "idProduct": 127050,
+    "excerpt": "Tira Manchas em Pó Vanish Pink Refil 400G",
+    "image": "//img.sitemercado.com.br/produtos/1d26142276b477017114ec08622cd08a4c70b933924e17394dbdb2ad7963c6f1_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 14.48,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 17,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Mortein",
+    "idProduct": 55678,
+    "excerpt": "Inseticida Mortein Ação Total Aerosol 400Ml",
+    "image": "//img.sitemercado.com.br/produtos/77151f447994f71bbf84502a0b5ccbd157bdf40cbb396e394de6cb63d26975f3_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.45,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 56,
+    "category": "Inseticidas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Destac",
+    "idProduct": 89592,
+    "excerpt": "Limpador de Pisos Destac Laminados Embalagem 750Ml 20%Desconto",
+    "image": "//img.sitemercado.com.br/produtos/c5419fe1bbc38c0cbc556b1fc1c680808da3ae72caf8cc4db0e53cabb51bf420_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 10.35,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 14,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Budweiser",
+    "idProduct": 208917,
+    "excerpt": "Cerveja Budweiser 330Ml",
+    "image": "//img.sitemercado.com.br/produtos/479b391a8482bde9156270022917766d0982ad366e4dff7dbb1696052d442709_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 3.79,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 3.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 494,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Poliflor",
+    "idProduct": 91961,
+    "excerpt": "Lustra Móveis Poliflor Lavanda Embalagem 500Ml",
+    "image": "//img.sitemercado.com.br/produtos/363800961cb16a4840b05901484e2241c1d18a0a6585cf2252a86892a17bd107_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 11.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 77,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Mortein",
+    "idProduct": 217483,
+    "excerpt": "Inseticida Mortein Ação Total Eucalipto Aerosol 400Ml",
+    "image": "//img.sitemercado.com.br/produtos/f52b1803eda14f0fa7ee2379e37b826bada190bd8e7c5d4a869a24235c1ee21b_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 31,
+    "category": "Inseticidas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Air Wick",
+    "idProduct": 230123,
+    "excerpt": "Aromatizador Air Wick Flores de Jasmin 360Ml",
+    "image": "//img.sitemercado.com.br/produtos/a0ba6ee762a0df16d66a3f7aa06186bb14d732fa22ed551b84a29efd872c453a_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 8.95,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 52,
+    "category": "Desodorizadores e Aromatizantes",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Destac",
+    "idProduct": 97529,
+    "excerpt": "Limpa Pisos com Brilho Destac Lavanda Diluível Embalagem 500Ml 20% de Desconto",
+    "image": "//img.sitemercado.com.br/produtos/34b4784bd825e6d030b121f4ece5b1bdefded22b52de6c3b0c9374ab2d85d66a_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 6.79,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 3,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Finish",
+    "idProduct": 248727,
+    "excerpt": "Lava Louça Finish em Pó Advanced 450G",
+    "image": "//img.sitemercado.com.br/produtos/0e6f88671ddffeb0bb7e2e21e36f8583cb2851214c7cb3cc8b9aabc22ce50ecf_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 19.98,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 16,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Harpic",
+    "idProduct": 127675,
+    "excerpt": "Pastilha Sanitária Harpic Power Marine 39G",
+    "image": "//img.sitemercado.com.br/produtos/b633a9d4c27348515067b7e921459ff02129a53ad39718212fbb30c25cf84dae_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 7,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Veja",
+    "idProduct": 249079,
+    "excerpt": "Limpador Perfumado Veja Aroma Sense Romance 500Ml",
+    "image": "//img.sitemercado.com.br/produtos/a5b13dc782e32af804665618320b5507d3abf9fcd9dd63888225c9e0ef7e429a_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 4.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 12,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Veja",
+    "idProduct": 252024,
+    "excerpt": "Limpador Perfumado Veja Aroma Sense Alegria 500Ml",
+    "image": "//img.sitemercado.com.br/produtos/3c16cc662a767a8e930b863d849acffd167920ceda181b7467a6172f92b4f8ee_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 4.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 24,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Colorado Beer",
+    "idProduct": 260227,
+    "excerpt": "Cerveja Colorado Lager Ribeirão 600Ml",
+    "image": "//img.sitemercado.com.br/produtos/490b90b9b49e765e841b8d74b4898719faf84468dd287e756a819d945e0f590a_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 9.95,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 8.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 36,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Passe Bem",
+    "idProduct": 13859,
+    "excerpt": "Passa Roupas Passe Bem Refil 500Ml",
+    "image": "//img.sitemercado.com.br/produtos/377480e0a3f7f084ec23662e65c8105663776711917692dbc6691d203c389b7f_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 10.45,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 17,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Nugget",
+    "idProduct": 17252,
+    "excerpt": "Cera Líquida para Sapatos Nugget Preto 60Ml",
+    "image": "//img.sitemercado.com.br/produtos/5fba9edfe8e33c0ea4461af1b1bbeace7db461c6baec6a78140766f2d1a15479_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 8.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 83,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Corpus Danone",
+    "idProduct": 192649,
+    "excerpt": "Iogurte Light Corpus Líquido Morango 850G",
+    "image": "//img.sitemercado.com.br/produtos/63d3b8966f5d6bcfc86e67beef863e9128e8d1b8cf7e698c3a7a1046b86513c0_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/leites-e-iogurtes_ind.jpg",
+    "quantity": 0,
+    "price_old": 13.29,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 10.632,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 11,
+    "category": "Iogurtes",
+    "department": "Leites e Iogurtes"
+  },
+  {
+    "title": "Harpic",
+    "idProduct": 128307,
+    "excerpt": "Bloco Sanitário Harpic Fresh Power 6 Lavanda 39G",
+    "image": "//img.sitemercado.com.br/produtos/967afaeb246f648b64bd0bb476aadbb633b02dc1348749df0314128e54d8b84e_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 8,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Air Wick",
+    "idProduct": 248728,
+    "excerpt": "Aromatizador Automatico Air Wick Freshmatic Toque de Algodão 250Ml + Aparelho",
+    "image": "//img.sitemercado.com.br/produtos/b5d83b0e0e3f5718c455e54ece2a39f81885d7a6b28c9d6bf1d04876b6f22b61_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 29.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 6,
+    "category": "Desodorizadores e Aromatizantes",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Colorado Beer",
+    "idProduct": 275304,
+    "excerpt": "Cerveja Colorado Ribeirão Lager 410Ml",
+    "image": "//img.sitemercado.com.br/produtos/b8ffc0c21b49e9ccc2acf6dc9c447ff3783529ae332a707e5505582b3a543c63_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 5.95,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 4.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 123,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Colorado Beer",
+    "idProduct": 16916,
+    "excerpt": "Cerveja Colorado Cauim 600Ml",
+    "image": "//img.sitemercado.com.br/produtos/cbad08a544ea041bd51a15818bcad1a80f2e7ab02f2484961d64d57179b37000_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 15.89,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 16,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Original Antarctica",
+    "idProduct": 2168,
+    "excerpt": "Cerveja Original Antarctica 600Ml",
+    "image": "//img.sitemercado.com.br/produtos/5ebb6eabc006d1ed1cadb0085149e721c09dfce25add656737fb0af26dc22758_hero_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 7.85,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 6.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 58,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Brahma",
+    "idProduct": 357859,
+    "excerpt": "Cerveja Brahma Duplo Malte 350Ml",
+    "image": "//img.sitemercado.com.br/produtos/b2fd2b16be89e82ffb8135ed78ed4c5c8174fe7879bc97476265132ff2e5a25e_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 2.98,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 2.98,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 1461,
+    "category": "Cervejas",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Comfort",
+    "idProduct": 284807,
+    "excerpt": "Sabão em Pó Comfort Hydra Serum Embalagem 800G",
+    "image": "//img.sitemercado.com.br/produtos/d08d19dd2fbfb82546c367db4ef87f7589717eb115cfa9cf2346939c5e77c8d6_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 9.45,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 7.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 229,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Castelo",
+    "idProduct": 134831,
+    "excerpt": "Vinagre de Álcool Castelo +Concentrado 6% Embalagem 5L",
+    "image": "//img.sitemercado.com.br/produtos/b646afaf5e5afcb0842ae0d1512ce2721c1eb2079025e6900899d69c418647fc_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 13.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 25,
+    "category": "Casa em Geral",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Brilhus",
+    "idProduct": 11564,
+    "excerpt": "Esponja Brilhus Multiuso 1 Unidade",
+    "image": "//img.sitemercado.com.br/produtos/afe18fe421b07459808881f8d0cae6c86ecad382adbd65afaf3dd28cd472d8c4_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 0.75,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 0.65,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 494,
+    "category": "Utensílios de Limpeza",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Comfort",
+    "idProduct": 284805,
+    "excerpt": "Lava Roupas Comfort Fiber Protect Embalagem 800G",
+    "image": "//img.sitemercado.com.br/produtos/5f803eabc22b931e13803d17f5872bb87c442e181fabf768b454bdc9876264a2_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 9.45,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 7.49,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 224,
+    "category": "Roupas",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Condor",
+    "idProduct": 29026,
+    "excerpt": "Vassoura Condor Nylon Madri 1 Un",
+    "image": "//img.sitemercado.com.br/produtos/846a03cc05fce91f646cf2218ffa4329cdbf30b580add911e2b3cca953320fb9_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/limpeza_ind.jpg",
+    "quantity": 0,
+    "price_old": 7.8,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 6.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 74,
+    "category": "Utensílios de Limpeza",
+    "department": "Limpeza"
+  },
+  {
+    "title": "Mais Doce",
+    "idProduct": 274352,
+    "excerpt": "Açúcar Demerara Mais Doce Cristal Embalagem 1Kg",
+    "image": "//img.sitemercado.com.br/produtos/241a50e5c6b01196f60ef9e65137440598d5ba7715c7b47d148afb00f562bd5d_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/alimentos-basicos_ind.jpg",
+    "quantity": 0,
+    "price_old": 3.25,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 2.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 321,
+    "category": "Açúcares e Adoçantes",
+    "department": "Alimentos Básicos"
+  },
+  {
+    "title": "Zero Cal",
+    "idProduct": 8328,
+    "excerpt": "Adoçante Líquido Zero Cal Sucralose Embalagem 100Ml",
+    "image": "//img.sitemercado.com.br/produtos/c18b68085f940630f00e13173f9ce3f60f51ad32edb069a47e8c6d3220787d95_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/alimentos-basicos_ind.jpg",
+    "quantity": 0,
+    "price_old": 10.49,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 26,
+    "category": "Açúcares e Adoçantes",
+    "department": "Alimentos Básicos"
+  },
+  {
+    "title": "Direto Do Produtor",
+    "idProduct": 207074,
+    "excerpt": "Tomate Carmen 3A",
+    "image": "//img.sitemercado.com.br/produtos/78e2d843de98d98bfd8df06c28bf7734b722c1bca991e759f9ccc3b8111b0539_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/feira_ind.jpg",
+    "quantity": 0,
+    "price_old": 0,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 3.95,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      },
+      {
+        "unit": 0,
+        "price": 3.95,
+        "quantity": 0,
+        "quantityStart": 300,
+        "quantityVariable": 100
+      }
+    ],
+    "quantityStock": 514570,
+    "category": "Legumes",
+    "department": "Feira"
+  },
+  {
+    "title": "Direto Do Produtor",
+    "idProduct": 346321,
+    "excerpt": "Pera Kg Portuguesa",
+    "image": "//img.sitemercado.com.br/produtos/82a802a5ea222c7153c4024a86575c30f962e02f71d7af6dfa737ae1bbe3abc4_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/feira_ind.jpg",
+    "quantity": 0,
+    "price_old": 8.95,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 5.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      },
+      {
+        "unit": 0,
+        "price": 5.99,
+        "quantity": 0,
+        "quantityStart": 300,
+        "quantityVariable": 300
+      }
+    ],
+    "quantityStock": 91383,
+    "category": "Frutas",
+    "department": "Feira"
+  },
+  {
+    "title": "Açougue",
+    "idProduct": 18672,
+    "excerpt": "Pernil de Cordeiro Açougue",
+    "image": "//img.sitemercado.com.br/produtos/9d6d774f3c13e3130428feafe2435707c45af00e9d4dda5ab7c0368dac493325_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/carnes-aves-e-peixes_ind.jpg",
+    "quantity": 0,
+    "price_old": 49.5,
+    "totalValue": 0,
+    "unit": 0,
+    "prices": [
+      {
+        "unit": 0,
+        "price": 44.8,
+        "quantity": 0,
+        "quantityStart": 1800,
+        "quantityVariable": 1800
+      }
+    ],
+    "quantityStock": 58732,
+    "category": "Carnes Especiais",
+    "department": "Carnes, Aves e Peixes"
+  },
+  {
+    "title": "Fruta e Cia",
+    "idProduct": 162068,
+    "excerpt": "Suco Pronto Fruta e Cia Uva Integral Garrafa 1,5 Litro",
+    "image": "//img.sitemercado.com.br/produtos/d9005e76f97410ab4ac48ae8fbbb5d3b6940e31ae767722ad25448faad9d3cd6_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas_ind.jpg",
+    "quantity": 0,
+    "price_old": 13.45,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 12.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 340,
+    "category": "Sucos",
+    "department": "Bebidas"
+  },
+  {
+    "title": "Life",
+    "idProduct": 41220,
+    "excerpt": "Suco Life Laranja Garrafa 1L",
+    "image": "//img.sitemercado.com.br/produtos/94783519b40a95f3e0b2a562b238a13b7bff2b763d46862c628ed09b83aba903_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas_ind.jpg",
+    "quantity": 0,
+    "price_old": 7.49,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 6.45,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 18,
+    "category": "Sucos",
+    "department": "Bebidas"
+  },
+  {
+    "title": "Chiarelli",
+    "idProduct": 201528,
+    "excerpt": "Vinho Branco Chiarelli Lambrusco Frisante Garrafa 750Ml",
+    "image": "//img.sitemercado.com.br/produtos/b4cd7d466d83736b661b37fba2dcdba9830c16b361d96605b848c70d8e391ec5_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/bebidas-alcoolicas_ind.jpg",
+    "quantity": 0,
+    "price_old": 21.9,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 18.9,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 238,
+    "category": "Vinhos",
+    "department": "Bebidas Alcoólicas"
+  },
+  {
+    "title": "Isababy",
+    "idProduct": 40683,
+    "excerpt": "Lenço Umedecido Isababy Embalagem 100 Un",
+    "image": "//img.sitemercado.com.br/produtos/48b70ee3da0ed6bb408b084ae1b0b609c9be89c36105d479d9b268d48c30f0ed_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 12.9,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 11.8,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 104,
+    "category": "Bebê",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Kleenex",
+    "idProduct": 13230,
+    "excerpt": "Lenço de Papel Kleenex Bolso Classic Embalagem 10 Un",
+    "image": "//img.sitemercado.com.br/produtos/3462cd8845e6905686c6d776164fe5ae2eac888252bc611de340c86a1202df53_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 1.69,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 1.38,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 234,
+    "category": "Higiene",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Soffie",
+    "idProduct": 223494,
+    "excerpt": "Desodorante Soffie Bamboo Aerosol 300Ml",
+    "image": "//img.sitemercado.com.br/produtos/71824cb97b7589712dd954302fa28e72c25539b2d5c7598ba89be499c71eb155_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 18.4,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 14.99,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 19,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Old Spice",
+    "idProduct": 223635,
+    "excerpt": "Desodorante Antitranspirante Old Spice Vip 93G",
+    "image": "//img.sitemercado.com.br/produtos/ca636f3ba9eba542e96eea891e3dec743c6c78f6de881eb7416a38b8dcc80315_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 12.45,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 11.48,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 46,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Vasenol",
+    "idProduct": 13284,
+    "excerpt": "Loção Desodorante Hidratante Vasenol Mãos e Unhas Embalagem 200Ml",
+    "image": "//img.sitemercado.com.br/produtos/34d56f2cb20554d415cb9e520beb2f0d8bd7bcac93699f581d9f88f4b041a769_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 10.9,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 9.75,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 22,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  },
+  {
+    "title": "Paixão",
+    "idProduct": 13307,
+    "excerpt": "Hidratante Paixao Inspiradora 200Ml",
+    "image": "//img.sitemercado.com.br/produtos/da046754d14850c61f651f5eba6179aeba57edaa4a098cb9ba8d5f35a1bd9048_full.jpg",
+    "imageError": "//img.sitemercado.com.br/departamentos/higiene-e-cuidados-pessoais_ind.jpg",
+    "quantity": 0,
+    "price_old": 6.48,
+    "totalValue": 0,
+    "unit": 1,
+    "prices": [
+      {
+        "unit": 1,
+        "price": 5.95,
+        "quantity": 0,
+        "quantityStart": 0,
+        "quantityVariable": 0
+      }
+    ],
+    "quantityStock": 28,
+    "category": "Corpo",
+    "department": "Higiene e Cuidados Pessoais"
+  }
+]

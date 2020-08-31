@@ -1,0 +1,19 @@
+{
+  "name": "project-aplicated",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js",
+    "db": "json-server -w -p 3004  db.json",
+    "dbhost": "json-server -w -p 3004 -H 192.168.0.107 db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

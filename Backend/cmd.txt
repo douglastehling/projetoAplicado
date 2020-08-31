@@ -1,0 +1,5 @@
+json-server.cmd -w -p 3004 .\db.json
+
+json-server.cmd -w -p 3004 -H 192.168.0.106 .\db.json 
+
+https://www.npmjs.com/package/json-server
