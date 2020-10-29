@@ -1357,7 +1357,7 @@
         "email": "douglastehling@hotmail.com"
       },
       "paymentStatus": "paid",
-      "deliveryStatus": "awaitingDelivery",
+      "deliveryStatus": "deliveryProcess",
       "value": "R$ 175,89",
       "creditCard": {
         "cvc": "123",
@@ -1443,7 +1443,7 @@
         "email": "douglastehling@hotmail.com"
       },
       "paymentStatus": "paid",
-      "deliveryStatus": "pending",
+      "deliveryStatus": "separatingItems",
       "value": "R$ 134,67",
       "creditCard": {
         "cvc": "123",
@@ -1495,6 +1495,46 @@
         }
       ],
       "id": 4
+    },
+    {
+      "orderDate": "2020-09-15 22:27:38",
+      "clientName": "Fulano de tal",
+      "address": {
+        "street": "Av Getúlio Vargas, 1299, Centro",
+        "city": "Belo Horizonte",
+        "state": "Minas Gerais",
+        "cep": "12345-678",
+        "note": "Perto da Praça da Savassi",
+        "email": "fulanodetal@gmail.com"
+      },
+      "paymentStatus": "paid",
+      "deliveryStatus": "pending",
+      "value": "R$ 83,64",
+      "creditCard": {
+        "cvc": "123",
+        "expiry": "12/2022",
+        "name": "Fulano de Tal Silva",
+        "number": "4111 1111 1111 1111",
+        "installments": 1
+      },
+      "itens": [
+        {
+          "id": 122546,
+          "quantity": 3,
+          "excerpt": "Inseticida Sbp Multi Regular 380Ml"
+        },
+        {
+          "id": 2264,
+          "quantity": 2,
+          "excerpt": "Cerveja Colorado Appia 600Ml"
+        },
+        {
+          "id": 20335,
+          "quantity": 2,
+          "excerpt": "Repelente Repelex Loção Familycare Citronela 200Ml"
+        }
+      ],
+      "id": 5
     }
   ]
 }
